@@ -1,2 +1,2 @@
 # Grandia
-A Open-World/ Platformer Rpg for Gameoff 2018
+A Open-World/Platformer RPG for Gameoff 2018
